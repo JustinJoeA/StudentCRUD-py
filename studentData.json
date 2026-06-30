@@ -1,0 +1,14 @@
+{
+    "student": [
+        {
+            "name": "John",
+            "grade": "12",
+            "gpa": 3.14
+        },
+        {
+            "name": "Jane",
+            "grade": "12",
+            "gpa": 2.91
+        }
+    ]
+}
